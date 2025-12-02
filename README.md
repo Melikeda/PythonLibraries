@@ -3,7 +3,7 @@
 
 ## For Pandas
 
-Adım Adım İşlem Listesi (Basitten İleriye)
+Adım Adım İşlem Listesi
 
 1️⃣ Veri İnceleme (Exploration)
 
